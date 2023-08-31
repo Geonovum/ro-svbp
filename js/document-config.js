@@ -34,7 +34,7 @@ var documentConfig =
     {
       name: "Beheerder RO Standaarden",
       company: "Geonovum",
-      companyURL: ""
+      companyURL: "https://www.geonovum.nl/"
     }
   ]
 }
