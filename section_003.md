@@ -44,7 +44,7 @@ Iedere bestemming heeft een naam. Voor de naam van een bestemming zijn vier vari
 <b>Variant 1 - naam van de hoofdgroep hanteren</b><br/>
 De naam van de bestemming begint met een hoofdletter en is verder gelijk aan de naam van de hoofdgroep. De naam van de bestemming wordt als volgt opgenomen:
 
-\<\<Naam hoofdgroep\>\><br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt;<br/>
 <i>Voorbeeld: Agrarisch</i>
 
 <b>Variant 2 - specifieke bestemmingsbenaming gebruiken</b><br/>
@@ -55,18 +55,18 @@ Een functie kan ook als functieaanduiding in elke gewenste bestemming worden geb
 
 De naam van een gespecificeerde bestemming wordt als volgt opgenomen, waarbij de eerste letter van de hoofdgroep en de eerste letter van de specificatie beginnen met een hoofdletter:
 
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<Specificatie van de bestemming\><br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] &lt;Specificatie van de bestemming&gt;<br/>
 <i>Voorbeeld: Agrarisch – Akkerbouw</i>
 
 <b>Variant 3 - Bestemming splitsen</b><br/>
 Splitsing van bestemmingen wordt gebruikt wanneer zich binnen dezelfde bestemming geheel verschillende stedenbouwkundige situaties voordoen die om heel verschillende bouwregels vragen. Daarnaast wordt splitsing gebruikt wanneer binnen dezelfde hoofdgroep diverse pakketten aan functies zijn te onderscheiden en er zonder splitsing een opeenhoping aan functieaanduidingen zou ontstaan. Bij splitsing van bestemmingen wordt altijd van Arabische cijfers gebruik gemaakt. De eerste letter van de hoofdgroep begint met een hoofdletter. De naam van een gesplitste bestemming wordt als volgt opgenomen, waarbij de eerste letter van de hoofdgroep begint met een hoofdletter:
 
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<cijfer\><br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] &lt;cijfer&gt;<br/>
 <i>Voorbeeld : Gemengd – 1</i>
 
 In het geval dat een bestemming wordt gesplitst waarvoor een specifieke bestemmingsbenaming is gespecificeerd, wordt de naam van de bestemming als volgt opgenomen, waarbij de eerste letter van de hoofdgroep en de eerste letter van de specificatie beginnen met een hoofdletter:
 
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<Specificatie van de bestemming\> \[spatie\] \<cijfer\><br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] &lt;Specificatie van de bestemming&gt; [spatie] &lt;cijfer&gt;<br/>
 <i>Voorbeeld 1: Water – Vaarwegen 1</i><br/>
 <i>Voorbeeld 2: Water – Vaarwegen 2</i>
 
@@ -75,44 +75,44 @@ Het kan in bijzondere situaties voorkomen dat een bestemming echt niet onder een
 
 Deze laatste variant is alleen van toepassing op bestemmingen die onder de hoofdgroep Overig vallen. De overige varianten zijn niet van toepassing op bestemmingen die onder de hoofdgroep Overig vallen.  De naam een bestemming onder de hoofdgroep Overig begint altijd met een hoofdletter en wordt opgenomen zonder naar de naam van de hoofdgroep te verwijzen, als volgt:
 
-\<Specificatie van de bestemming\><br/>
+&lt;Specificatie van de bestemming&gt;<br/>
 <i>Voorbeeld : Enclave</i><br/>
 ## Naam van een voorlopige bestemming {#2DE68ACB}
 
 Iedere voorlopige bestemming heeft een naam. De naam van een voorlopige bestemming wordt als volgt opgenomen:
 
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \[Voorlopig\]<br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] [Voorlopig]<br/>
 <i>Voorbeeld: Agrarisch – Voorlopig</i>
 
 In het geval dat een voorlopige bestemming wordt gesplitst, wordt de naam van de bestemming als volgt opgenomen, waarbij de eerste letter van de hoofdgroep en de eerste letter van de specificatie beginnen met een hoofdletter:
 
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<Specificatie van de bestemming\> \[spatie\] \[Voorlopig\]<br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] &lt;Specificatie van de bestemming&gt; [spatie] [Voorlopig]<br/>
 <i>Voorbeeld: Agrarisch – Grondgebonden Voorlopig</i><br/>
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \[Voorlopig\] \[spatie\] \<cijfer\><br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] [Voorlopig] [spatie] &lt;cijfer&gt;<br/>
 <i>Voorbeeld: Agrarisch – Voorlopig 1</i><br/>
 ## Naam van een uit te werken bestemming {#2DE68AD8}
 
 Iedere uit te werken bestemming heeft een naam. De naam van een uit te werken bestemming wordt als volgt in het bestemmingsplan opgenomen:
 
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \[Uit te werken\]<br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] [Uit te werken]<br/>
 <i>Voorbeeld: Agrarisch – Uit te werken</i>
 
 In het geval dat een uit te werken bestemming wordt gesplitst, wordt de naam van de bestemming als volgt opgenomen, waarbij de eerste letter van de hoofdgroep en de eerste letter van de specificatie beginnen met een hoofdletter:
 
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<Specificatie van de bestemming\> \[spatie\] \[Uit te werken\]<br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] &lt;Specificatie van de bestemming&gt; [spatie] [Uit te werken]<br/>
 <i>Voorbeeld: Agrarisch – Grondgebonden Uit te werken</i><br/>
-\<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \[Uit te werken\] \[spatie\] \<cijfer\><br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt; [spatie] [-] [spatie] [Uit te werken] [spatie] &lt;cijfer&gt;<br/>
 <i>Voorbeeld: Agrarisch – Uit te werken 1</i><br/>
 ## Vermelding van bestemmingen in de planregels {#2DE68AE5}
 
 Een bestemming wordt als volgt in de bestemmingsomschrijving in de planregels opgenomen:
 
-\[De voor \] \[‘\] \<Naam bestemming\> \[’\] \[ aangewezen gronden zijn bestemd voor \]<br/>
+[De voor ] [‘] &lt;Naam bestemming&gt; [’] [ aangewezen gronden zijn bestemd voor ]<br/>
 <i>Voorbeeld: De voor ‘Agrarisch’ aangewezen gronden zijn bestemd voor ...</i>
 
 In overige gevallen wordt de bestemming als volgt in de planregels opgenomen:
 
-\[‘\] \<Naam bestemming\> \[’\]<br/>
+[‘] &lt;Naam bestemming&gt; [’]<br/>
 <i>Voorbeeld: ‘Agrarisch’</i>
 
 Bij het opnemen van bestemmingen wordt in de planregels geen gebruik gemaakt van lettercodes.<br/>

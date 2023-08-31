@@ -16,9 +16,9 @@ In de volgende hoofdstukken zijn de normen voor de opbouw en de digitale verbeel
 
 In dit document worden de volgende aanduidingen gehanteerd:
 
-specificatie tussen \<\> haakjes : de gespecificeerde waarde wordt bepaald door de bronhouder;<br/>
-specificatie tussen \<\<\>\> haakjes : de gespecificeerde waarde wordt gekozen uit een lijst;<br/>
-specificatie tussen \[\] haakjes : de gespecificeerde waarde wordt letterlijk opgenomen;<br/>
-\[spatie\] : er wordt een enkele spatie opgenomen;<br/>
+specificatie tussen &lt;&gt; haakjes : de gespecificeerde waarde wordt bepaald door de bronhouder;<br/>
+specificatie tussen &lt;&lt;&gt;&gt; haakjes : de gespecificeerde waarde wordt gekozen uit een lijst;<br/>
+specificatie tussen [] haakjes : de gespecificeerde waarde wordt letterlijk opgenomen;<br/>
+[spatie] : er wordt een enkele spatie opgenomen;<br/>
 rgb(x,y,z) : een kleurcodering. De codering is opgebouwd uit drie primaire additieve kleuren rood, groen en blauw. De hoeveelheid van een kleur loopt van 0 (niets van die kleur) tot en met 255 (alles van die kleur). Het eerste cijfer (x) geeft de hoeveelheid van de kleur rood aan, het tweede twee cijfer (y) geeft de hoeveelheid van de kleur groen aan, het derde cijfer (z) geeft de hoeveelheid van de kleur blauw aan.
 

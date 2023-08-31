@@ -18,7 +18,7 @@ Met uitzondering van de aanduiding figuur zijn de hiervoor genoemde aanduidingen
 
 Een bouwvlak is een aanduiding waarvan er slechts één soort is. De naam van het bouwvlak wordt met kleine letters geschreven en wordt als volgt opgenomen:
 
-\[bouwvlak\]<br/>
+[bouwvlak]<br/>
 <i>Voorbeeld: bouwvlak</i>
 
 In de digitale verbeelding wordt de begrenzing van een bouwvlak weergegeven met een dikke ononderbroken lijn, conform de specificatie in . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
@@ -34,26 +34,26 @@ Iedere functieaanduiding heeft een naam. De naam van een functieaanduiding wordt
 <b>Variant 1 - aanduiding uit de functielijst opnemen</b><br/>
 Er is een functielijst opgesteld die als separate bijlage naast deze standaard van toepassing is. Indien er gebruik wordt gemaakt van een functie wordt die voorkomt op deze lijst, dan wordt de naam van de functieaanduiding als volgt opgenomen:
 
-\<\<functieaanduiding\>\><br/>
+&lt;&lt;functieaanduiding&gt;&gt;<br/>
 <i>Voorbeeld: bedrijfswoning</i>
 
 In het geval dat een functie die voorkomt op de functielijst niet is toegestaan op een locatie in het bestemmingsplan, wordt deze negatieve functieaanduiding als volgt opgenomen:
 
-\<functieaanduiding\> \[spatie\] \[uitgesloten\]<br/>
+&lt;functieaanduiding&gt; [spatie] [uitgesloten]<br/>
 <i>Voorbeeld: bedrijfswoning uitgesloten</i>
 
 <b>Variant 2 - specifieke functie opnemen</b><br/>
 Naast het werken met functies van de functielijst mag er als dat nodig is voor een goede ruimtelijke ordening ook gewerkt worden met specifieke functies. Een specifieke functie is een functie die niet voorkomt op de functielijst. De specificatie bestaat uit een of meer toepasselijke woorden of een Arabisch cijfer. De naam van een specifieke functie wordt geheel met kleine letters geschreven en wordt als volgt opgenomen:
 
-\[specifieke vorm van\] \[spatie\] \<\<hoofdgroep \>\> \[spatie\] \[-\] \[spatie\] \<specificatie\><br/>
+[specifieke vorm van] [spatie] &lt;&lt;hoofdgroep &gt;&gt; [spatie] [-] [spatie] &lt;specificatie&gt;<br/>
 <i>Voorbeeld 1: specifieke vorm van agrarisch </i>–<i> kalvermesterij</i><br/>
 <i>Voorbeeld 2: specifieke vorm van maatschappelijk – 1</i>
 
-Voor de \<\<hoofdgroep\>\> wordt gekozen uit een van de hoofdgroepen die gehanteerd worden bij bestemmingen en dubbelbestemmingen, behalve de hoofdgroep ‘overig’. Hierbij wordt de hoofdgroep gekozen die hoort bij de specifieke functie, ook al ligt deze in een vlak met een bestemming van een andere hoofdgroep.  De gegeven specificatie of het cijfer moet corresponderen met in de planregels genoemde functies.
+Voor de &lt;&lt;hoofdgroep&gt;&gt; wordt gekozen uit een van de hoofdgroepen die gehanteerd worden bij bestemmingen en dubbelbestemmingen, behalve de hoofdgroep ‘overig’. Hierbij wordt de hoofdgroep gekozen die hoort bij de specifieke functie, ook al ligt deze in een vlak met een bestemming van een andere hoofdgroep.  De gegeven specificatie of het cijfer moet corresponderen met in de planregels genoemde functies.
 
 In het geval dat een specifieke functie niet is toegestaan op een locatie in het bestemmingsplan, wordt deze uitgesloten functie als volgt opgenomen:
 
-\[specifieke vorm van\] \[spatie\] \<\<hoofdgroep\>\> \[spatie\] \[uitgesloten\] \[spatie\] \[-\] \[spatie\] \<specificatie\><br/>
+[specifieke vorm van] [spatie] &lt;&lt;hoofdgroep&gt;&gt; [spatie] [uitgesloten] [spatie] [-] [spatie] &lt;specificatie&gt;<br/>
 <i>Voorbeeld: specifieke vorm van recreatie uitgesloten - groepsverblijf</i>
 
 In de digitale verbeelding wordt de begrenzing van een functieaanduiding weergegeven met een onderbroken lijn, conform de specificatie in . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
@@ -82,19 +82,19 @@ De naam van de bouwaanduiding wordt met kleine letters geschreven. Voor de naam 
 <b>Variant 1 – bouwaanduiding uit de lijst opnemen</b><br/>
 In deze variant wordt de bouwaanduiding als volgt opgenomen:
 
-\<\<bouwaanduiding\>\><br/>
+&lt;&lt;bouwaanduiding&gt;&gt;<br/>
 <i>Voorbeeld: aaneengebouwd</i>
 
 In het geval dat een bepaalde bouwaanduiding niet is toegestaan op een locatie in het bestemmingsplan, wordt gebruik gemaakt van een negatieve bouwaanduiding. De naam van de negatieve bouwaanduiding wordt met kleine letters geschreven en wordt als volgt opgenomen:
 
-\<\<bouwaanduiding\>\> \[spatie\] \[uitgesloten\]<br/>
+&lt;&lt;bouwaanduiding&gt;&gt; [spatie] [uitgesloten]<br/>
 <i>Voorbeeld: aaneengebouwd uitgesloten</i>
 
 <b>Variant 2 - specifieke bouwaanduiding opnemen</b>
 
 Naast het werken met bouwaanduidingen uit bovenstaande lijst mag er met het oog op een goede ruimtelijke ordening ook gewerkt worden met specifieke bouwaanduidingen. Een specifieke aanduiding is een bouwaanduiding die niet voorkomt op de bovenstaande lijst. De specificatie bestaat uit een of meer toepasselijke woorden of een Arabisch cijfer. De naam van een specifieke aanduiding wordt met kleine letters geschreven en wordt als volgt opgenomen:
 
-\[specifieke bouwaanduiding\] \[spatie\] \[-\] \[spatie\] \<specificatie\>
+[specifieke bouwaanduiding] [spatie] [-] [spatie] &lt;specificatie&gt;
 
 <i>Voorbeeld 1: specifieke bouwaanduiding – stolp</i><br/>
 <i>Voorbeeld 2: specifieke bouwaanduiding – 1</i>
@@ -103,7 +103,7 @@ De gegeven specificatie of het cijfer moeten corresponderen met een in de planre
 
 In het geval dat een bepaalde bouwwijze of verschijningsvorm niet is toegestaan op een locatie in het bestemmingsplan, wordt gebruik gemaakt van een negatieve specifieke aanduiding. De naam van de negatieve verzamelaanduiding wordt met kleine letters geschreven en wordt als volgt opgenomen:
 
-\[specifieke bouwaanduiding uitgesloten\] \[spatie\] \[-\] \[spatie\] \<specificatie\><br/>
+[specifieke bouwaanduiding uitgesloten] [spatie] [-] [spatie] &lt;specificatie&gt;<br/>
 <i>Voorbeeld 1: specifieke bouwaanduiding uitgesloten – stolp</i><br/>
 <i>Voorbeeld 2: specifieke bouwaanduiding uitgesloten – 1</i>
 
@@ -150,42 +150,42 @@ Maatvoeringsaanduidingen zijn alle aanduidingen die betrekking hebben op afmetin
 De naam van de maatvoeringsaanduiding wordt met kleine letters geschreven. Voor de naam van een maatvoeringsaanduiding zijn drie varianten mogelijk:
 
 <b>Variant 1 - maatvoering uit de lijst gebruiken</b><br/>
-In deze variant wordt een maatvoeringsaanduiding uit bovenstaande lijst gebruikt. Bij iedere aanduiding behalve bij de aanduidingen ‘aantal’ en ‘maatvoering’ kan de aanduiding voorafgegaan worden door het voorvoegsel \[minimum\] of \[maximum\]. De naam van deze aanduidingen wordt als volgt opgenomen:
+In deze variant wordt een maatvoeringsaanduiding uit bovenstaande lijst gebruikt. Bij iedere aanduiding behalve bij de aanduidingen ‘aantal’ en ‘maatvoering’ kan de aanduiding voorafgegaan worden door het voorvoegsel [minimum] of [maximum]. De naam van deze aanduidingen wordt als volgt opgenomen:
 
-\<\<maatvoeringsaanduiding\>\><br/>
+&lt;&lt;maatvoeringsaanduiding&gt;&gt;<br/>
 <i>Voorbeeld: bouwhoogte (m)</i><br/>
 of<br/>
-\[minimum\] \[spatie\] \<\<maatvoeringsaanduiding\>\><br/>
+[minimum] [spatie] &lt;&lt;maatvoeringsaanduiding&gt;&gt;<br/>
 <i>Voorbeeld: minimum bouwhoogte (m)</i><br/>
 of<br/>
-\[maximum\] \[spatie\] \<\<maatvoeringsaanduiding\>\><br/>
+[maximum] [spatie] &lt;&lt;maatvoeringsaanduiding&gt;&gt;<br/>
 <i>Voorbeeld: maximum bouwhoogte (m)</i>
 
 <b>Variant 2 - specifieke maatvoeringsaanduiding gebruiken</b><br/>
 Naast het werken met maatvoeringsaanduidingen uit bovenstaande lijst mogen als dat wenselijk is voor een goede ruimtelijke ordening de volgende specifieke maatvoeringsaanduidingen in een bestemmingsplan gebruikt worden:<br/>
-<ul><li>maximaal drie maatvoeringsaanduidingen die niet in bovenstaande lijst voorkomen en die beginnen met het voorvoegsel \[minimum\];</li>
-<li>maximaal drie maatvoeringsaanduidingen die niet in bovenstaande lijst voorkomen en die beginnen met het voorvoegsel \[maximum\];</li>
+<ul><li>maximaal drie maatvoeringsaanduidingen die niet in bovenstaande lijst voorkomen en die beginnen met het voorvoegsel [minimum];</li>
+<li>maximaal drie maatvoeringsaanduidingen die niet in bovenstaande lijst voorkomen en die beginnen met het voorvoegsel [maximum];</li>
 <li>maximaal drie maatvoeringsaanduidingen die niet in bovenstaande lijst voorkomen en die niet beginnen met een van beide voorvoegsels.</li>
 </ul>
 
 De naam van deze aanduidingen wordt als volgt opgenomen:
 
-\<maatvoeringsaanduiding\><br/>
+&lt;maatvoeringsaanduiding&gt;<br/>
 <i>Voorbeeld: aantal bedrijfswoningen</i>
 
 of<br/>
-\[minimum\] \[spatie\] \<maatvoeringsaanduiding\><br/>
+[minimum] [spatie] &lt;maatvoeringsaanduiding&gt;<br/>
 <i>Voorbeeld: minimum aantal bedrijfswoningen</i>
 
 of<br/>
-\[maximum\] \[spatie\] \<maatvoeringsaanduiding\><br/>
+[maximum] [spatie] &lt;maatvoeringsaanduiding&gt;<br/>
 <i>Voorbeeld: maximum aantal bedrijfswoningen</i>
 
 <b>Variant 3 - gecombineerde maatvoeringsaanduiding gebruiken</b><br/>
 In deze variant worden maatvoeringsaanduidingen conform variant 1 en/of 2 gecombineerd opgenomen. Alle combinaties die wenselijk zijn voor een goede ruimtelijke ordening zijn daarbij toegestaan. De naam van de gecombineerde aanduiding wordt opgenomen door de aanduidingen achter elkaar te plaatsen, gescheiden met een komma en een spatie:
 
-\<eerste maatvoeringsaanduiding\> \[,\] \[spatie\] \[...\] \<laatste maatvoeringsaanduiding\><br/>
-met \[...\] een mogelijke herhaling van \<maatvoeringsaanduiding\> \[,\] \[spatie\], indien de aanduiding uit meer dan 2 maatvoeringen bestaat.<br/>
+&lt;eerste maatvoeringsaanduiding&gt; [,] [spatie] [...] &lt;laatste maatvoeringsaanduiding&gt;<br/>
+met [...] een mogelijke herhaling van &lt;maatvoeringsaanduiding&gt; [,] [spatie], indien de aanduiding uit meer dan 2 maatvoeringen bestaat.<br/>
 <i>Voorbeeld 1: goothoogte (m), bouwhoogte (m)</i><br/>
 <i>Voorbeeld 2: maximum goothoogte (m), maximum bouwhoogte (m)</i><br/>
 <i>Voorbeeld 3: minimum aantal bedrijfswoningen, maximum aantal bedrijfswoningen</i>
@@ -219,14 +219,14 @@ De naam van een figuur wordt geschreven met kleine letters en kan op twee manier
 <b>Variant 1 – naam figuur gebruiken</b><br/>
 In deze variant wordt de naam gehanteerd zoals deze voorkomt in bovenstaande lijst, als volgt:
 
-\<\<figuur\>\><br/>
+&lt;&lt;figuur&gt;&gt;<br/>
 <i>Voorbeeld 1: dwarsprofiel;</i><br/>
 <i>Voorbeeld 2: hartlijn leiding – brandstof.</i>
 
 <b>Variant 2 – ander leidingtype specificeren</b><br/>
 Naast het werken met figuren uit bovenstaande lijst mogen met het oog op een goede ruimtelijke ordening ook figuren gespecificeerd worden van het type hartlijn leiding met een andere leidingsoort. De naam van dit type figuur wordt als volgt opgenomen:
 
-\[hartlijn leiding\] \[spatie\] \[-\] \[spatie\] \<specificatie van het type leiding\><br/>
+[hartlijn leiding] [spatie] [-] [spatie] &lt;specificatie van het type leiding&gt;<br/>
 <i>Voorbeeld: hartlijn leiding – rivierwatertransport</i>
 
 In de digitale verbeelding worden figuren weergegeven conform . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
@@ -256,18 +256,18 @@ Voor de naam van een gebiedsaanduiding zijn twee varianten mogelijk:
 <b>Variant 1 - naam van de hoofdgroep hanteren</b><br/>
 De naam van de gebiedsaanduiding begint met een kleine letter en is verder gelijk aan de naam van de hoofdgroep. De naam van de gebiedsaanduiding wordt als volgt opgenomen:
 
-\<\<Naam hoofdgroep\>\><br/>
+&lt;&lt;Naam hoofdgroep&gt;&gt;<br/>
 <i>Voorbeeld: geluidzone</i>
 
 <b>Variant 2 - specificieke gebiedsaanduiding gebruiken</b><br/>
 In deze variant wordt de gebiedsaanduiding als volgt opgenomen:
 
-\<\<hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<specificatie van de aanduiding\><br/>
+&lt;&lt;hoofdgroep&gt;&gt; [spatie] [-] [spatie] &lt;specificatie van de aanduiding&gt;<br/>
 <i>Voorbeeld: wetgevingzone - afwijkingsgebied</i>
 
 Als het voor een goede ruimtelijke ordening wenselijk is om meerdere varianten van dezelfde specifieke gebiedsaanduiding te gebruiken, dan kunnen deze nader gespecificeerd worden met een nadere tekstuele aanduiding in de vorm van een woord of een Arabisch cijfer, als volgt:
 
-\<\<hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<specificatie van de aanduiding\> \[spatie\] \<nadere aanduiding\><br/>
+&lt;&lt;hoofdgroep&gt;&gt; [spatie] [-] [spatie] &lt;specificatie van de aanduiding&gt; [spatie] &lt;nadere aanduiding&gt;<br/>
 <i>Voorbeeld 1: wetgevingzone - afwijkingsgebied milieu</i><br/>
 <i>Voorbeeld 2: wetgevingzone - afwijkingsgebied 1</i>
 

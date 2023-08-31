@@ -28,12 +28,12 @@ Iedere dubbelbestemming heeft een naam. Voor de specificatie van de naam van een
 
 Een dubbelbestemming wordt als volgt in de bestemmingsomschrijving in de planregels opgenomen:
 
-\[De voor \] \[‘\] \<Naam dubbelbestemming\> \[’\] \[ aangewezen gronden zijn, behalve voor de andere daar voorkomende bestemming(en), mede bestemd voor\]<br/>
+[De voor ] [‘] &lt;Naam dubbelbestemming&gt; [’] [ aangewezen gronden zijn, behalve voor de andere daar voorkomende bestemming(en), mede bestemd voor]<br/>
 <i>Voorbeeld: De voor ‘Waterstaat - Waterberging’ aangewezen gronden zijn, behalve voor de andere daar voorkomende bestemming(en), mede bestemd voor ...</i>
 
 In overige gevallen wordt de dubbelbestemming als volgt in de planregels opgenomen:
 
-\[‘\] \<Naam dubbelbestemming\> \[’\]<br/>
+[‘] &lt;Naam dubbelbestemming&gt; [’]<br/>
 <i>Voorbeeld : ‘Waterstaat - Waterberging’</i>
 
 Bij het opnemen van dubbelbestemmingen wordt in de planregels geen gebruik gemaakt van lettercodes.<br/>

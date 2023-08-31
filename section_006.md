@@ -117,7 +117,7 @@ Er wordt in de regels geen gebruik gemaakt van lettercodes, tenzij anders voorge
 
 Functieaanduidingen, bouwaanduidingen, gebiedsaanduidingen, maatvoeringsaanduidingen en figuren worden met de volgende woorden in de planregels opgenomen:
 
-\[ter plaatse van de aanduiding \] \[‘\] \<naam aanduiding\> \[’\]<br/>
+[ter plaatse van de aanduiding ] [‘] &lt;naam aanduiding&gt; [’]<br/>
 <i>Voorbeeld:ter plaatse van de aanduiding 'grondgebonden'…</i>
 
 Er wordt de regels geen gebruik gemaakt van lettercodes tenzij anders voorgeschreven bij de specificatie van de naam (zie <a href='#'>Hoofdstuk 5</a>).<br/>
@@ -131,9 +131,9 @@ Voor andere begrippen dan de in deze paragraaf genoemde begrippen wordt verwezen
 De standaard begrippen zijn als volgt:
 
 <b>plan</b><br/>
-\[Het bestemmingsplan \] \<plannaam\> \[ met identificatienummer \] \<idn\> \[ van de gemeente \] \<..\>
+[Het bestemmingsplan ] &lt;plannaam&gt; [ met identificatienummer ] &lt;idn&gt; [ van de gemeente ] &lt;..&gt;
 
-<i>De term bestemmingsplan kan vervangen worden door inpassingsplan of rijksbestemmingsplan indien van toepassing. Bij \<plannaam\> wordt de aanhaaltitel van het bestemmingsplan ingevuld zoals aangegeven in de slotregel. Bij \<idn\> wordt het identificatienummer van het plan ingevuld in het formaat zoals vastgelegd in STRI2012.</i>
+<i>De term bestemmingsplan kan vervangen worden door inpassingsplan of rijksbestemmingsplan indien van toepassing. Bij &lt;plannaam&gt; wordt de aanhaaltitel van het bestemmingsplan ingevuld zoals aangegeven in de slotregel. Bij &lt;idn&gt; wordt het identificatienummer van het plan ingevuld in het formaat zoals vastgelegd in STRI2012.</i>
 
 <b>bestemmingsplan</b><br/>
 De geometrisch bepaalde planobjecten met de bijbehorende regels en de daarbij behorende bijlagen
@@ -178,7 +178,7 @@ De regels van een bestemmingsplan moeten worden genummerd. De wijze van nummerin
 
 In de regels van het bestemmingsplan wordt in de slotregel aangegeven op welke wijze de regels van het bestemmingsplan kunnen worden aangehaald. De tekst van de slotregel dient als volgt te luiden:
 
-\[Deze regels worden aangehaald als: Regels van het bestemmingsplan \] \[‘\] \<volledige naam van het bestemmingsplan\> \[’\]
+[Deze regels worden aangehaald als: Regels van het bestemmingsplan ] [‘] &lt;volledige naam van het bestemmingsplan&gt; [’]
 
 De volledige naam is de aanhaaltitel.
 
