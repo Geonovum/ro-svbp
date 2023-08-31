@@ -13,7 +13,7 @@ var documentConfig =
   publishDate: "2023-08-31",
   publishVersion: "1.3.2",
   thisVersion: [
-    "https://geen.github.io/ro-svbp/"
+    "https://geonovum.github.io/ro-svbp/"
   ],
   previousPublishDate: "2013-10-29",
   previousPublishVersion: "1.3.1",
@@ -21,8 +21,8 @@ var documentConfig =
     "docs.geostandaarden.nl/ro/def-no-svbp-20131029/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geen/ro-svbp/",
-  issueBase: "https://github.com/geen/ro-svbp/issues/",
+  github: "https://github.com/geonovum/ro-svbp/",
+  issueBase: "https://github.com/geonovum/ro-svbp/issues/",
   authors: [
     {
       name: "Beheerder RO Standaarden",
