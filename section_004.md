@@ -18,7 +18,7 @@ Ten behoeve van de eenduidigheid in de naamgeving en digitale verbeelding van du
 Van iedere specifieke dubbelbestemming is door de bronhouder vastgelegd onder welke hoofdgroep deze valt.
 
 In de digitale verbeelding worden alle geometrisch bepaalde vlakken waar de dubbelbestemmingen betrekking op hebben, weergegeven door zwarte vlakpatronen, conform de specificatie in . De begrenzing van deze vlakken wordt weergegeven door een ononderbroken lijn. In verband met de raadpleegbaarheid is het mogelijk in de kolom- en rijafstanden van de patronen te variëren. Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
-<figure><img src='media/image3.png' alt='Afbeelding met tekst, schermopname, diagram, lijn' style='width: 36.02252212123912%;'></img>
+<figure><img src='media/hoofdgroepen_dubbelbestemmingen.png' alt='Afbeelding met hoofdgroepen dubbelbestemmingenbestemmingen vlakken met zwarte lijn, iedere hoofdgroen voorzien van naam en eigen kleur en rgb waarden.' style='width: 36.02252212123912%;'></img>
 <figcaption>Verbeelding hoofdgroepen van dubbelbestemmingen</figcaption></figure>
 
 ## Naam van een dubbelbestemming {#2DE68B13}

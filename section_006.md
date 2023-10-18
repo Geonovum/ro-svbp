@@ -112,7 +112,7 @@ Een artikel voor een uit te werken bestemming hoeft niet alle elementen te bevat
 <b>Dubbelbestemming</b><br/>
 Voor de bestemmingsregels behorend bij een dubbelbestemming gelden, voor zover voor de betrokken dubbelbestemming relevant, dezelfde opbouw en kopjes als voor bestemmingen. Een regel voor een dubbelbestemming hoeft niet alle elementen te bevatten. Dit kan per dubbelbestemming verschillen.
 
-Er wordt in de regels geen gebruik gemaakt van lettercodes, tenzij anders voorgeschreven bij de specificatie van de naam (zie <a href='#'>Hoofdstuk 3</a> en <a href='#'>Hoofdstuk 4</a>).<br/>
+Er wordt in de regels geen gebruik gemaakt van lettercodes, tenzij anders voorgeschreven bij de specificatie van de naam (zie <a href='#6461A652'>Hoofdstuk 3</a> en <a href='#3859D477'>Hoofdstuk 4</a>).<br/>
 ## Aanduidingen {#2DE68CFF}
 
 Functieaanduidingen, bouwaanduidingen, gebiedsaanduidingen, maatvoeringsaanduidingen en figuren worden met de volgende woorden in de planregels opgenomen:
@@ -120,7 +120,7 @@ Functieaanduidingen, bouwaanduidingen, gebiedsaanduidingen, maatvoeringsaanduidi
 [ter plaatse van de aanduiding ] [‘] &lt;naam aanduiding&gt; [’]<br/>
 <i>Voorbeeld:ter plaatse van de aanduiding 'grondgebonden'…</i>
 
-Er wordt de regels geen gebruik gemaakt van lettercodes tenzij anders voorgeschreven bij de specificatie van de naam (zie <a href='#'>Hoofdstuk 5</a>).<br/>
+Er wordt de regels geen gebruik gemaakt van lettercodes tenzij anders voorgeschreven bij de specificatie van de naam (zie <a href='#42FA4C1B'>Hoofdstuk 5</a>).<br/>
 ## Begrippen {#2DE68D07}
 
 In hoofdstuk 1 van de planregels worden begrippen verklaard die in de planregels voorkomen en die een nadere omschrijving behoeven. De begrippen die het bestemmingsplan en de type objecten benoemen, komen in ieder bestemmingsplan voor. Deze standaardbegrippen en bijbehorende definities worden hierna gegeven. Deze begrippen moeten worden overgenomen.<br/>

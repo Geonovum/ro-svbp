@@ -23,6 +23,6 @@ Bestemmingen, dubbelbestemmingen en aanduidingen moeten in alle interactieve raa
 In een bestemmingsplanprocedure wordt gebruik gemaakt van een topografische ondergrond. Deze ondergrond maakt geen deel uit van het bestemmingsplan zelf. In de digitale verbeelding kunnen andere (topografische) ondergronden worden gebruikt dan de ondergronden die gebruikt zijn tijdens de procedure en bij de vaststelling.
 
 In de digitale verbeelding wordt de begrenzing van het plangebied weergegeven met een ononderbroken bolletjeslijn, conform de specificatie in .<br/>
-<figure><img src='media/image1.png' alt='Afbeelding met lijn, Lettertype, wit, tekst' style='width: 36.29961257151792%;'></img>
+<figure><img src='media/plangebied.png' alt='Afbeelding vlak met zwarte lijn onderbroken door zwarte bollen, transparante achtergrond.' style='width: 36.29961257151792%;'></img>
 <figcaption>Verbeelding plangebied</figcaption></figure>
 

@@ -34,7 +34,7 @@ Ten behoeve van de eenduidigheid in de naamgeving en digitale verbeelding van be
 </ul>
 
 Van iedere specifieke bestemming, voorlopige bestemming en uit te werken bestemming wordt door de bronhouder vastgelegd onder welke hoofdgroep deze valt. In de digitale verbeelding krijgen alle geometrisch bepaalde vlakken waar de bestemmingen, voorlopige bestemmingen en uit te werken bestemmingen betrekking op hebben, de kleur van de hoofdgroep waar deze onder valt, conform de specificatie in . De begrenzing van deze vlakken wordt weergegeven door een ononderbroken lijn. Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
-<figure><img src='media/image2.png' alt='Afbeelding met tekst, schermopname, Kleurrijkheid, ontwerp' style='width: 73.56906898990432%;'></img>
+<figure><img src='media/hoofdgroepen_enkelbestemmingen.png' alt='Afbeelding met hoofdgroepen enkelbestemmingen vlakken met zwarte lijn, iedere hoofdgroen voorzien van naam en eigen kleur en rgb waarden.' style='width: 73.56906898990432%;'></img>
 <figcaption>Verbeelding hoofdgroepen van bestemmingen</figcaption></figure>
 
 ## Naam van een bestemming {#2DE68AA3}

@@ -22,7 +22,7 @@ Een bouwvlak is een aanduiding waarvan er slechts één soort is. De naam van he
 <i>Voorbeeld: bouwvlak</i>
 
 In de digitale verbeelding wordt de begrenzing van een bouwvlak weergegeven met een dikke ononderbroken lijn, conform de specificatie in . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
-<figure><img src='media/image4.png' alt='Afbeelding met tekst, Lettertype, schermopname, wit' style='width: 50.29298029041683%;'></img>
+<figure><img src='media/bouwvlak.png' alt='Afbeelding vlak met zwarte lijn, transparante achtergrond.' style='width: 50.29298029041683%;'></img>
 <figcaption>Verbeelding bouwvlakken</figcaption></figure>
 
 ## Functieaanduiding {#45B24E21}
@@ -57,7 +57,7 @@ In het geval dat een specifieke functie niet is toegestaan op een locatie in het
 <i>Voorbeeld: specifieke vorm van recreatie uitgesloten - groepsverblijf</i>
 
 In de digitale verbeelding wordt de begrenzing van een functieaanduiding weergegeven met een onderbroken lijn, conform de specificatie in . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
-<figure><img src='media/image5.png' alt='Afbeelding met tekst, Lettertype, wit, schermopname' style='width: 36.71525733723368%;'></img>
+<figure><img src='media/functieaanduiding.png' alt='Afbeelding vlak met onderbroken zwarte lijn, transparante achtergrond.' style='width: 36.71525733723368%;'></img>
 <figcaption>Verbeelding functieaanduidingen</figcaption></figure>
 
 ## Bouwaanduiding {#2DE68B69}
@@ -108,7 +108,7 @@ In het geval dat een bepaalde bouwwijze of verschijningsvorm niet is toegestaan 
 <i>Voorbeeld 2: specifieke bouwaanduiding uitgesloten – 1</i>
 
 In de digitale verbeelding wordt de begrenzing van een bouwaanduiding weergegeven met een onderbroken lijn, conform de specificatie in . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
-<figure><img src='media/image6.png' alt='Afbeelding met tekst, Lettertype, wit, lijn' style='width: 34.91412395893367%;'></img>
+<figure><img src='media/bouwaanduiding.png' alt='Afbeelding vlak met onderbroken zwarte lijn, transparante achtergrond.' style='width: 34.91412395893367%;'></img>
 <figcaption>Verbeelding bouwaanduidingen</figcaption></figure>
 
 ## Maatvoering {#2DE68B9E}
@@ -194,7 +194,7 @@ met [...] een mogelijke herhaling van &lt;maatvoeringsaanduiding&gt; [,] [spatie
 <i>Voorbeeld 5: minimum goothoogte (m), minimum bouwhoogte (m), dakhelling (graden), maximum bebouwingspercentage (%)</i>
 
 In de digitale verbeelding wordt de begrenzing van een maatvoering weergegeven met een onderbroken lijn, conform de specificatie in . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes of symbolen.<br/>
-<figure><img src='media/image7.png' alt='Afbeelding met tekst, Lettertype, wit, ontwerp' style='width: 30.480585851497267%;'></img>
+<figure><img src='media/maatvoering.png' alt='Afbeelding vlak met onderbroken zwarte lijn, transparante achtergrond.' style='width: 30.480585851497267%;'></img>
 <figcaption>Verbeelding maatvoeringen</figcaption></figure>
 
 ## Figuur {#2DE68BF4}
@@ -230,7 +230,7 @@ Naast het werken met figuren uit bovenstaande lijst mogen met het oog op een goe
 <i>Voorbeeld: hartlijn leiding – rivierwatertransport</i>
 
 In de digitale verbeelding worden figuren weergegeven conform . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
-<figure><img src='media/image8.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 40.31750591323856%;'></img>
+<figure><img src='media/figuren.png' alt='Afbeelding per figuur een eigen type lijn in kleur, voorzien van naam en rgb waarden.' style='width: 40.31750591323856%;'></img>
 <figcaption>Verbeelding figuren</figcaption></figure>
 
 ## Gebiedsaanduiding {#2DE68C30}
@@ -312,6 +312,6 @@ Ten behoeve van de vergelijkbaarheid worden hier onder extra voorbeelden gegeven
 <i>Voorbeeld 37: wetgevingzone - wijzigingsgebied</i>
 
 In de digitale verbeelding wordt de begrenzing van de gebiedsaanduidingen weergegeven. De kleur en opmaak van de begrenzing komt overeen met de kleur van de hoofdgroep waar deze onder valt, conform de specificatie in . Er wordt in de digitale verbeelding geen gebruik gemaakt van lettercodes.<br/>
-<figure><img src='media/image9.png' alt='Afbeelding met tekst, schermopname, ontwerp, origami' style='width: 48.21475646183803%;'></img>
+<figure><img src='media/gebiedsaanduidingen.png' alt='Afbeelding per gebiedsaanduiding een lijn met aan de bovenzijde haaientanden, voorzien van naam en rgb waarden.' style='width: 48.21475646183803%;'></img>
 <figcaption>Verbeelding gebiedsaanduidingen</figcaption></figure>
 
